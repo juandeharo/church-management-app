@@ -1,0 +1,101 @@
+ContributionNo,MemberID,ContributionDate,Amount,Method,CheckNo,DesignatedFund
+1,2434,1/26/2018,328.29,Debit Card,,General Fund
+2,6990,5/11/2016,868.03,Check,3033,Church Planting
+3,1142,11/25/2017,334.66,Credit Card,,Missions
+4,3426,11/25/2018,468.72,Cash,,Missions
+5,3095,1/5/2018,747.84,Debit Card,,Restricted-Youth
+6,2941,10/19/2014,154.01,Cash,,Food Bank
+7,1867,8/1/2016,370.56,Debit Card,,Building Fund
+8,2022,11/8/2014,553.3,Credit Card,,General Fund
+9,9104,4/24/2017,288.62,Debit Card,,Building Fund
+10,7302,1/27/2016,700.55,Check,1185,General Fund
+11,7099,4/1/2015,756.64,Debit Card,,Food Bank
+12,4527,4/3/2014,188.45,Credit Card,,Restricted-Youth
+13,9159,3/18/2015,760.55,Credit Card,,Building Fund
+14,3319,6/21/2016,189.16,Cash,,Restricted-Youth
+15,4923,4/2/2018,678.84,Check,5811,Building Fund
+16,7061,1/10/2014,131.89,Check,1231,Missions
+17,2381,1/12/2018,803.76,Credit Card,,Church Planting
+18,2434,6/20/2015,881.53,Check,7242,Tithes
+19,9998,11/5/2016,147.99,Cash,,Church Planting
+20,3364,12/3/2017,965.53,Cash,,Church Planting
+21,1752,8/5/2017,773.46,Debit Card,,Church Planting
+22,7302,5/16/2014,510.1,Check,9282,Building Fund
+23,7252,8/22/2015,410.9,Debit Card,,General Fund
+24,7907,4/23/2016,313.99,Check,8703,Building Fund
+25,9316,2/12/2014,150.87,Cash,,Building Fund
+26,7099,2/14/2018,366.16,Debit Card,,Missions
+27,9159,11/10/2017,837.28,Debit Card,,Restricted-Youth
+28,9159,1/11/2017,337.42,Credit Card,,Tithes
+29,8466,3/10/2016,885.31,Check,4289,Tithes
+30,1584,2/20/2015,746.37,Check,2735,Food Bank
+31,1673,6/12/2017,719.64,Debit Card,,General Fund
+32,6106,5/24/2016,215.99,Check,5007,General Fund
+33,5472,7/6/2014,288.92,Credit Card,,Missions
+34,6419,6/16/2017,653.92,Cash,,Church Planting
+35,1743,7/16/2016,2765.17,Debit Card,,Tithes
+36,9093,1/1/2018,541.82,Debit Card,,General Fund
+37,8109,9/28/2015,341.62,Check,7004,General Fund
+38,9821,1/18/2016,874.47,Cash,,General Fund
+39,4694,4/7/2015,343.09,Credit Card,,Church Planting
+40,3256,2/15/2015,948.87,Cash,,Church Planting
+41,5472,11/3/2016,641.31,Credit Card,,General Fund
+42,8559,6/21/2017,435.82,Cash,,Building Fund
+43,9850,12/10/2015,490.15,Credit Card,,Building Fund
+44,9104,2/27/2018,646.82,Check,8062,Building Fund
+45,9284,1/14/2014,447.24,Credit Card,,Food Bank
+46,7003,7/8/2016,1058.31,Debit Card,,Tithes
+47,8463,6/18/2018,746.57,Check,1351,Missions
+48,9747,9/5/2016,442.32,Cash,,Food Bank
+49,7887,8/15/2014,1806.36,Debit Card,,Tithes
+50,5084,8/6/2017,455.56,Credit Card,,General Fund
+51,9617,2/22/2016,902.07,Check,8170,Tithes
+52,2562,2/22/2016,272.21,Cash,,Tithes
+53,6990,7/10/2017,576.77,Credit Card,,Food Bank
+54,9747,5/4/2014,264.67,Check,2451,Church Planting
+55,7061,11/17/2016,273.79,Cash,,Building Fund
+56,9998,9/11/2015,508.87,Cash,,Building Fund
+57,9159,11/19/2014,757.54,Credit Card,,Missions
+58,7883,8/12/2014,584.57,Debit Card,,Church Planting
+59,7976,11/7/2018,729.51,Check,8214,Building Fund
+60,7883,12/10/2016,385.05,Cash,,Church Planting
+61,9821,4/26/2016,598.02,Credit Card,,Building Fund
+62,1673,11/23/2014,430.08,Check,8434,General Fund
+63,8688,2/3/2015,872.29,Check,8246,Church Planting
+64,5005,2/26/2015,849.07,Debit Card,,Restricted-Youth
+65,4872,1/25/2015,153.29,Check,4272,Food Bank
+66,2024,8/26/2017,391.96,Debit Card,,Building Fund
+67,7061,8/18/2015,994.22,Debit Card,,Missions
+68,1006,12/13/2018,599.74,Check,2117,Missions
+69,3179,9/14/2018,634.46,Check,4504,Food Bank
+70,7907,12/25/2016,175.82,Cash,,Food Bank
+71,2562,12/22/2014,657.36,Credit Card,,Church Planting
+72,2367,11/8/2017,254.6,Credit Card,,Food Bank
+73,6990,5/11/2017,260.23,Debit Card,,General Fund
+74,4241,10/22/2017,743.54,Cash,,Tithes
+75,3360,3/14/2016,426.8,Cash,,Missions
+76,3364,4/20/2015,490.68,Cash,,Church Planting
+77,7887,7/9/2018,498.12,Check,5805,General Fund
+78,4527,4/2/2014,587.98,Credit Card,,Missions
+79,9995,11/4/2016,624.22,Debit Card,,Missions
+80,7818,6/14/2017,684.1,Debit Card,,Building Fund
+81,6106,7/5/2018,543.01,Cash,,General Fund
+82,9013,6/16/2017,581.76,Cash,,Food Bank
+83,9267,8/26/2016,2695.51,Debit Card,,Tithes
+84,7061,1/26/2014,910.11,Debit Card,,Church Planting
+85,5005,4/13/2016,850.97,Cash,,General Fund
+86,7003,1/20/2014,808.03,Debit Card,,Building Fund
+87,6419,10/21/2015,223.96,Credit Card,,Missions
+88,1867,11/1/2017,497.27,Debit Card,,General Fund
+89,7578,7/20/2015,814.36,Debit Card,,Building Fund
+90,1865,6/11/2015,878.13,Cash,,Food Bank
+91,9850,4/3/2018,992.28,Debit Card,,General Fund
+92,9013,10/28/2014,223.43,Credit Card,,Missions
+93,9998,5/1/2015,801.45,Credit Card,,General Fund
+94,7099,6/21/2014,492.06,Cash,,Church Planting
+95,1142,12/20/2014,685.82,Debit Card,,Missions
+96,8252,9/10/2018,714.04,Debit Card,,Restricted-Youth
+97,4642,6/4/2016,522.72,Cash,,Building Fund
+98,6990,6/21/2017,699.58,Check,9581,Restricted-Youth
+99,3860,12/19/2018,339.33,Credit Card,,Restricted-Youth
+100,2077,11/21/2018,840.34,Check,8756,Missions

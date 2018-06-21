@@ -1,0 +1,32 @@
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\bin\Debug\ChurchManagementApplication.exe.config
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.csprojResolveAssemblyReference.cache
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmChurchEvents.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmContributionQuery.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmDashboard.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmMemberQuery.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmMinisterSuggestion.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.Properties.Resources.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.csproj.GenerateResource.Cache
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\bin\Debug\ChurchManagementApplication.exe
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\bin\Debug\ChurchManagementApplication.pdb
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.exe
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.pdb
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.AboutForm.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmMemberEdit.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\TeamProj\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmContributionEdit.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\bin\Debug\ChurchManagementApplication.exe.config
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.exe
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.pdb
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\bin\Debug\ChurchManagementApplication.exe
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\bin\Debug\ChurchManagementApplication.pdb
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.csprojResolveAssemblyReference.cache
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.AboutForm.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmChurchEvents.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmContributionEdit.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmContributionQuery.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmDashboard.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmMemberEdit.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmMemberQuery.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.frmMinisterSuggestion.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.Properties.Resources.resources
+C:\Users\Juan De Haro\Documents\School\Baylor\Spring 2018\C#\final product\ChurchManagementApplication\ChurchManagementApplication\obj\Debug\ChurchManagementApplication.csproj.GenerateResource.Cache
